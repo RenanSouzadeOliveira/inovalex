@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="40" viewBox="0 0 140 40">
+  <!-- Background -->
+  <rect fill="#64b5f6" width="140" height="40" rx="4"/>
+  
+  <!-- Tax icon -->
+  <g transform="translate(10, 8)">
+    <path fill="white" d="M12 2L2 7v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V7l-10-5z"/>
+    <path fill="#1d2246" d="M12 11h-1V8h-2v3H8l4 4 4-4z"/>
+  </g>
+  
+  <!-- Text "TAXINNOVATION" -->
+  <text x="40" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="600" fill="white">
+    TAX
+  </text>
+  <text x="75" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#1d2246">
+    INNOVATION
+  </text>
+</svg>
